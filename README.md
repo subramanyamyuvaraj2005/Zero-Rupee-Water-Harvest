@@ -1,0 +1,1 @@
+This project is a zero cost system to pull water from the air using everyday discontinued items and scrap materials. It is designed to harvest clean water in emergency survival situations or remote places without spending any money.
